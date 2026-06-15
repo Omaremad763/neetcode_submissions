@@ -20,16 +20,6 @@ When approaching any algorithmic problem, I follow a strict 4-stage engineering 
 2. **Handle Edge Cases:** Guard clauses for empty inputs, bounds overflow (`int` vs `long`), and structural anomalies.
 3. **Draft the Brute-Force Solution:** Mentally map out the naive approach ($O(N^2)$) to establish a baseline.
 4. **Optimize using Data Structures:** Leverage the optimal tool from my toolkit (`HashSet`, `Dictionary`, `Stack`, etc.) to hit peak execution speed.
-
----
-
-## 📈 Roadmap & Progress Tracking
-
-| Topic | Problem | Time Complexity | Space Complexity | Solution Link | Status |
-| :--- | :--- | :---: | :---: | :---: | :---: |
-| **Arrays & Hashing** | Contains Duplicate | $O(N)$ | $O(N)$ | [Solution](./Solutions/ContainsDuplicate.cs) | ✅ Solved |
-| **Arrays & Hashing** | Valid Anagram | *In Progress* | *In Progress* | [Link](#) | ⏱️ Next |
-
 ---
 
 ## 🧰 The DSA Engineer's Toolkit
