@@ -30,11 +30,3 @@ Here is how I visually map out the tools I use to break down complex logic:
 * **`Dictionary<TKey, TValue>`** ➡️ To track frequencies, indices, and key-value relations.
 * **`Stack<T>` / `Queue<T>`** ➡️ For dynamic tracking (LIFO / FIFO linear processes).
 * **`StringBuilder`** ➡️ Used heavily for optimized mutable string manipulations to avoid memory fragmentation ($O(1)$ updates).
-
----
-
-## 🤝 Let's Connect!
-
-Building robust, scalable applications and systems. 
-
-[![GitHub](https://img.shields.io/badge/GitHub-Omaremad763-181717?style=flat-square&logo=github)](https://github.com/Omaremad763)
