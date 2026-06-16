@@ -11,7 +11,6 @@ public class Solution {
 
             string key = string.Join(",", count); 
 
-            // 1. تصحيح الغلطة الأولى: استخدام key بدل sortedKey
             if (!store.ContainsKey(key)) {
                 store[key] = new List<string>();
             }
